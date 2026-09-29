@@ -60,7 +60,9 @@ colors, with a few fall touches (leaf emoji and rust accents).
 **Upload:** Mailchimp → Email templates → Create template → Code your own → **Import zip**,
 then choose `nica-fall-member-checkin.zip`. The zip holds the HTML plus `nica-logo.jpg` and
 `tommy-signature.png`. Mailchimp hosts the images and fixes the links automatically.
-Don't paste the HTML by itself, or the two images won't load.
+To paste code instead (easier on a phone), use `fall-member-checkin/fall-member-checkin-paste.html`.
+It loads the logo and signature from this public GitHub repo, so keep the repo public and don't
+delete this branch or those two image files.
 
 Before sending, set the campaign's **Reply-to** address to the inbox where you want member ideas to arrive.
 
