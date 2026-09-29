@@ -51,15 +51,18 @@ Find and replace these hex values to match the brand:
 `*|UPDATE_PROFILE|*`, `*|UNSUB|*`, `*|CURRENT_YEAR|*`, `*|LIST:COMPANY|*`,
 `*|LIST:DESCRIPTION|*`, `*|HTML:LIST_ADDRESS_HTML|*`, `*|HTML:REWARDS|*`.
 
-## Fall member check-in (`fall-member-checkin.html`)
+## Fall member check-in (`fall-member-checkin/`)
 
-A one-off letter from NICA's founder thanking members and asking for feedback. It has no
-images, so nothing needs uploading. The fall look comes from colored stripes and emoji.
-Upload it the same way as the newsletter. Before sending:
+A letter from Tommy, NICA's founder and president, thanking members and asking for their
+ideas. It uses the NICA gold-on-navy logo, Tommy's signature, and the navy and gold brand
+colors, with a few fall touches (leaf emoji and rust accents).
 
-- Replace `[Founder's Name]` in the signature.
-- Make sure the campaign's **Reply-to** address is the inbox where you want member ideas to arrive.
-- Optional: swap the "NICA" text wordmark in the header for your logo image (instructions are in the code comment).
+**Upload:** Mailchimp → Email templates → Create template → Code your own → **Import zip**,
+then choose `nica-fall-member-checkin.zip`. The zip holds the HTML plus `nica-logo.jpg` and
+`tommy-signature.png`. Mailchimp hosts the images and fixes the links automatically.
+Don't paste the HTML by itself, or the two images won't load.
 
-Colors: NICA navy `#0B2E59`, light blue `#EEF3FA` / `#A9C4E8`. Fall accents: `#8C2F1B`, `#C4561B`, `#E08A2E`, `#D9A93A`.
-Page background: `#F6EEE3`.
+Before sending, set the campaign's **Reply-to** address to the inbox where you want member ideas to arrive.
+
+Colors: navy `#0C1F3D`, gold `#C69A3D` / `#E3C274`, light blue `#EEF3FA`, fall rust `#B5552B`,
+page background `#F4EEE4`.
