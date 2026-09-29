@@ -50,3 +50,16 @@ Find and replace these hex values to match the brand:
 `*|FNAME|*` (the greeting falls back to "there" when the first name is empty), `*|ARCHIVE|*`,
 `*|UPDATE_PROFILE|*`, `*|UNSUB|*`, `*|CURRENT_YEAR|*`, `*|LIST:COMPANY|*`,
 `*|LIST:DESCRIPTION|*`, `*|HTML:LIST_ADDRESS_HTML|*`, `*|HTML:REWARDS|*`.
+
+## Fall member check-in (`fall-member-checkin.html`)
+
+A one-off letter from NICA's founder thanking members and asking for feedback. It has no
+images, so nothing needs uploading. The fall look comes from colored stripes and emoji.
+Upload it the same way as the newsletter. Before sending:
+
+- Replace `[Founder's Name]` in the signature.
+- Make sure the campaign's **Reply-to** address is the inbox where you want member ideas to arrive.
+- Optional: swap the "NICA" text wordmark in the header for your logo image (instructions are in the code comment).
+
+Colors: NICA navy `#0B2E59`, light blue `#EEF3FA` / `#A9C4E8`. Fall accents: `#8C2F1B`, `#C4561B`, `#E08A2E`, `#D9A93A`.
+Page background: `#F6EEE3`.
