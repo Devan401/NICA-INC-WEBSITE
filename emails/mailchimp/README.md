@@ -68,3 +68,14 @@ Before sending, set the campaign's **Reply-to** address to the inbox where you w
 
 Colors: navy `#0C1F3D`, gold `#C69A3D` / `#E3C274`, light blue `#EEF3FA`, fall rust `#B5552B`,
 page background `#F4EEE4`.
+
+## Thanksgiving thank-you to independent contractors (`thanksgiving-contractors/`)
+
+A Thanksgiving letter from Tommy thanking NICA's independent contractors, in the same navy and
+gold branding as the fall email. To use it, paste `thanksgiving-contractors/thanksgiving-contractors.html`
+into Mailchimp → Email templates → Create template → Code your own → **Paste in code**. The logo and
+signature load from the `fall-member-checkin/` images in this repo, so keep those files.
+`preview.png` shows how it renders.
+
+Before sending, check the office-closure dates in the navy callout box. They say closed Thu Nov 26
+and Fri Nov 27, back Mon Nov 30.
