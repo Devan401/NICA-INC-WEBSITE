@@ -77,5 +77,5 @@ into Mailchimp → Email templates → Create template → Code your own → **P
 signature load from the `fall-member-checkin/` images in this repo, so keep those files.
 `preview.png` shows how it renders.
 
-Before sending, check the office-closure dates in the navy callout box. They say closed Thu Nov 26
-and Fri Nov 27, back Mon Nov 30.
+Before sending, check the office-closure dates in the navy callout box. It says closed Thu Nov 26,
+back Fri Nov 27.
